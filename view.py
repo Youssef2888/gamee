@@ -1,7 +1,7 @@
 import requests
 import telebot,random
 from telebot import types
-token = "5090894737:AAF67GlxSQiTUQoe40VqtOpvpweKY9MexIc"
+token = "5223107853:AAGlgaBvqERohzY2NOhjmBPdK5Oq50vubTw"
 def check_user(user_id):
     global tokin
     request = requests.get(
